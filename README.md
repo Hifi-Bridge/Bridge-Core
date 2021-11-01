@@ -1,1 +1,1 @@
-# Bridge-Core converter
+# Bridge-Core Asynchronous converter
